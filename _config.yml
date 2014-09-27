@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Prototype Pin Blog
+tagline:          The Blog for Prototype Ping
+url:              http://blog.prototypepin.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Prototype Pin
+  url:            https://twitter.com/prototypepin
+  email:          thsonvt@gmail.com
 
 # Custom vars
 version:          1.0.0
