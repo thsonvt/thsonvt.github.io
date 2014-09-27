@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Prototype Pin Blog
-tagline:          The Blog for Prototype Ping
+tagline:          The Blog for Prototype Pin
 url:              http://blog.prototypepin.com
 paginate:         1
 baseurl:          /
@@ -18,6 +18,11 @@ author:
   email:          thsonvt@gmail.com
 
 # Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+#version:          1.0.0
+#github:
+#  repo:           https://github.com/poole/poole
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml' 
